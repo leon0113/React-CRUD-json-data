@@ -1,0 +1,193 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "johndoe123",
+      "email": "john.doe@email.com",
+      "address": {
+        "street": "Maple Street",
+        "suite": "Apt 101",
+        "city": "Maplewood",
+        "zipcode": "12345-6789",
+        "geo": {
+          "lat": "40.1234",
+          "lng": "35.6789"
+        }
+      },
+      "phone": "555-123-4567",
+      "website": "johndoe.com",
+      "company": {
+        "name": "Doe Enterprises",
+        "catchPhrase": "Innovate and Succeed",
+        "bs": "Enhance productivity"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Alice Johnson",
+      "username": "alicej",
+      "email": "alice.johnson@email.com",
+      "address": {
+        "street": "Oak Avenue",
+        "suite": "Suite 50",
+        "city": "Wonderland",
+        "zipcode": "54321-9876",
+        "geo": {
+          "lat": "37.5678",
+          "lng": "41.1234"
+        }
+      },
+      "phone": "555-987-6543",
+      "website": "aliceinwonderland.com",
+      "company": {
+        "name": "Wonderland Enterprises",
+        "catchPhrase": "Explore the Imagination",
+        "bs": "Create magical experiences"
+      }
+    },
+    {
+      "name": "Steve Smith ",
+      "email": "david.smith@email.com",
+      "phone": "555-333-9999",
+      "website": "davidsmith.com",
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Emma Davis",
+      "username": "emmad",
+      "email": "emma.davis@email.com",
+      "address": {
+        "street": "Pine Street",
+        "suite": "Apt 303",
+        "city": "Greenwood",
+        "zipcode": "87654-3210",
+        "geo": {
+          "lat": "38.8765",
+          "lng": "43.9876"
+        }
+      },
+      "phone": "555-111-7777",
+      "website": "emmadavis.com",
+      "company": {
+        "name": "Davis Corporation",
+        "catchPhrase": "Invent the Future",
+        "bs": "Drive innovation"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Sophia Wilson",
+      "username": "sophiaw",
+      "email": "sophia.wilson@email.com",
+      "address": {
+        "street": "Willow Lane",
+        "suite": "Apt 404",
+        "city": "Willowville",
+        "zipcode": "76543-2109",
+        "geo": {
+          "lat": "39.7654",
+          "lng": "44.8765"
+        }
+      },
+      "phone": "555-222-8888",
+      "website": "sophiawilson.com",
+      "company": {
+        "name": "Wilson Enterprises",
+        "catchPhrase": "Innovate for Tomorrow",
+        "bs": "Create a better future"
+      }
+    },
+    {
+      "id": 6,
+      "name": "James Anderson",
+      "username": "jamesa",
+      "email": "james.anderson@email.com",
+      "address": {
+        "street": "Birch Road",
+        "suite": "Apt 505",
+        "city": "Birchville",
+        "zipcode": "65432-1098",
+        "geo": {
+          "lat": "33.6543",
+          "lng": "47.7654"
+        }
+      },
+      "phone": "555-444-5555",
+      "website": "jamesanderson.com",
+      "company": {
+        "name": "Anderson Industries",
+        "catchPhrase": "Quality and Excellence",
+        "bs": "Pursue perfection"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Olivia Martin",
+      "username": "oliviam",
+      "email": "olivia.martin@email.com",
+      "address": {
+        "street": "Hickory Lane",
+        "suite": "Apt 606",
+        "city": "Hickorytown",
+        "zipcode": "54321-9876",
+        "geo": {
+          "lat": "36.5432",
+          "lng": "45.6543"
+        }
+      },
+      "phone": "555-555-9999",
+      "website": "oliviamartin.com",
+      "company": {
+        "name": "Martin Corporation",
+        "catchPhrase": "Innovate and Excel",
+        "bs": "Strive for success"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Mia Wilsonnnn",
+      "username": "miaw",
+      "email": "mia.wilson@email.com",
+      "address": {
+        "street": "Chestnut Lane",
+        "suite": "Apt 909",
+        "city": "Chestnutville",
+        "zipcode": "98765-4321",
+        "geo": {
+          "lat": "31.9876",
+          "lng": "50.5432"
+        }
+      },
+      "phone": "555-888-7777",
+      "website": "miawilson.com",
+      "company": {
+        "name": "Wilson Enterprises",
+        "catchPhrase": "Innovate for a Bright Future",
+        "bs": "Create opportunities for success"
+      }
+    },
+    {
+      "name": "XYZ",
+      "email": "tanita2360@eazenity.com",
+      "phone": "02342",
+      "website": "xyz.comm",
+      "id": 12
+    },
+    {
+      "name": "name",
+      "email": "tanita2360@eazenity.com",
+      "phone": "234",
+      "website": "dwed",
+      "id": 13
+    },
+    {
+      "name": "wedqwdeqwd",
+      "email": "tanita2360@eazenity.com",
+      "phone": "32524",
+      "website": "fghg",
+      "id": 14
+    }
+  ]
+}
